@@ -1,4 +1,4 @@
 # Projet-BdD-S2
-Projet de base de données du 
-Fait à partir de la même base de données que celle du S1, on était en binome, (j'ai conservé le même binome qu'au S1).
-On a appris plus de choses sur le langages, en plus des connaissances du S1.
+Projet fait en groupe de 2.
+Objectif : faire les requêtes répondant aux questions du sujet.
+On a approfondi nos connaissances sur le langage sql au cours de ce projet, en se servant de fonctions comme Group By et Union, utiliser les recherches de valeurs nulles dans des tables.
